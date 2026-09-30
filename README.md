@@ -13,7 +13,7 @@ This submission follows the same phase-wise repository organization style as the
 8. Phase 8 Demonstration Video
 
 Team Leader: M. Priyanka  
-Team Members: M. Priyanka, C. Deepa, B. Priyadharshini, A. Nethra
+Team Members: C. Deepa, B. Priyadharshini, A. Nethra
 
 ## Project Overview
 
